@@ -535,7 +535,7 @@ export default function Page() {
                 impact.
               </h1>
               <p className={cn("max-w-3xl text-lg leading-8 md:text-xl", t.sub)}>
-                I’m Mohit Rawat, a Web Developer with 2+ years of experience
+                I’m Mohit Rawat, a Web Developer with 3+ years of experience
                 building production-ready applications across customer-facing
                 platforms, admin panels, vendor systems, and CRM workflows with
                 strong focus on performance, scalability, and responsive UI.
