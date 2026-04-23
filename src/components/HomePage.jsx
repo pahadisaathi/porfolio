@@ -11,7 +11,10 @@ import Footer from "./Footer";
 
 export default function HomePage() {
   return (
-    <div className="relative min-h-screen bg-[var(--bg)] text-[var(--text)]">
+    <div
+      id="top"
+      className="relative min-h-screen bg-[var(--bg)] text-[var(--text)]"
+    >
       <Navbar />
       <main>
         <Hero />
