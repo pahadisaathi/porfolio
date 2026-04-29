@@ -57,7 +57,7 @@ export const journey = {
       tags: ["Next.js", "React.js", "Express.js", "Node.js", "Razorpay", "WhatsApp API", "RBAC"],
     },
     {
-      year: "Mar 2023 - Dec 2023",
+      year: "Feb 2023 - Oct 2023",
       title: "Frontend Developer Intern",
       company: "Bukalo India Pvt. Ltd.",
       description:
